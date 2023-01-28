@@ -18,7 +18,7 @@ When done print "File copied successfully".
 ### Step 6:
 End of the program.
 ## PROGRAM:
-```
+```python
 Program For Copying The Contents:
 Developed by: KARNAN K
 RegisterNumber: 22003223
@@ -38,7 +38,9 @@ fileHandle.close()
 print("\nFile Copied Successfully!")
 ```
 ### OUTPUT:
-
+![output](cop1.png)
+![output](cop2.png)
+![output](cop3.png)
 
 
 ## RESULT:
